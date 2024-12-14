@@ -1,2 +1,1 @@
-# database
-Netology homework
+«Базы данных, их типы» Кантемиров Роман
